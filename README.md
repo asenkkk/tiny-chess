@@ -1,6 +1,6 @@
 # Tiny Chess — strongest chess engine in 4 KB of Python
 
-A pure-Python UCI chess engine in a single 4,074-byte file (`main.py`).
+A pure-Python UCI chess engine in a single 4,096-byte file (`main.py`).
 
 Run it: `python3 main.py`
 
